@@ -1,0 +1,29 @@
+
+info:
+  per:
+    marks:
+    - 50
+    - 63
+    - 53
+    nick-name:
+    - mannu
+    - jannu
+    - dhanu
+    phone-no:
+    - 899666
+    - 99666
+    - 555656
+    id-card:
+      hk: 79956
+      madhur: 884564
+      radha: 4461651
+    favFruits: 
+      apple: green
+      grapes: green
+      mango: yellow  
+    company:
+      name: hcl
+      size: 10
+      location: mumbai
+      
+      
